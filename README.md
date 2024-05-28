@@ -1,2 +1,2 @@
 # Computer-Graphics
-SPPU lab
+SPPU Lab
